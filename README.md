@@ -39,3 +39,8 @@ classDiagram
 ```
 ![image](sökväg.till.bild)
 ```
+
+## US 04
+```js
+ska bli ett js block
+```
